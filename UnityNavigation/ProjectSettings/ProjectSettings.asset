@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Chris
-  productName: "Chris | \u5C0E\u89BD\u7CFB\u7D71\u7DF4\u7FD2"
+  companyName: wie
+  productName: "wie | \u5C0E\u89BD\u7CFB\u7D71\u7DF4\u7FD2"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.8039216, g: 0.8039216, b: 0.8039216, a: 1}
@@ -41,9 +41,7 @@ PlayerSettings:
     height: 1
   m_SplashScreenLogos:
   - logo: {fileID: 10404, guid: 0000000000000000e000000000000000, type: 0}
-    duration: 2
-  - logo: {fileID: 21300000, guid: b0f6bc17b533f7a49bff50f55fa2f799, type: 3}
-    duration: 2
+    duration: 10
   m_VirtualRealitySplashScreen: {fileID: 0}
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
