@@ -59,17 +59,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11254}
+      Script: {instanceID: 11252}
     - Class: 114
-      Script: {instanceID: 11270}
+      Script: {instanceID: 11268}
     - Class: 114
-      Script: {instanceID: 11412}
+      Script: {instanceID: 11410}
     - Class: 114
-      Script: {instanceID: 11838}
+      Script: {instanceID: 11836}
     - Class: 114
-      Script: {instanceID: 12694}
+      Script: {instanceID: 12692}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 13042}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -538,4 +538,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u7DF4\u7FD2\u5834\u666F.unity"
-  playerPath: D:/Navigation/Unity_Practice_Navigation/Web
+  playerPath: C:/work/Unity_Practice_Navigation/web
